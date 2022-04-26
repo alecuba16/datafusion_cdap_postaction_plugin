@@ -1,5 +1,5 @@
 # datafusion_cdap_postaction_plugin
-Complete project example for creating a Google cloud datafusion (CDAP) Post action plugin. Sourced and adapted from the documentation where there is no quickstart project.
+Complete example project to create a custom Google cloud datafusion (CDAP) Post action plugin. Sourced and adapted from the documentation where there is no quickstart project.
 
 ## Post-run Action Plugin
 A PostAction plugin runs arbitrary logic after the end of a pipeline run. It can be set to execute based on whether the run completed successfully, if it failed, or in either case.
